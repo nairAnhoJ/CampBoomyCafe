@@ -413,6 +413,10 @@ nav ul li a {
 @media all and (max-width: 736px) {
     #home-bg{
         background-size: 90vw;
+        width: 100% !important;
+    }
+    #abt-cover{
+        width: 100% !important;
     }
     #contact-us{
         height: auto;
@@ -467,6 +471,10 @@ nav ul li a {
     }
     #home-bg{
         background-size: 95vw;
+        width: 100% !important;
+    }
+    #abt-cover{
+        width: 100% !important;
     }
     nav{
         display: none;
@@ -559,6 +567,10 @@ nav ul li a {
     }
     #home-bg{
         background-size: 95vw;
+        width: 100% !important;
+    }
+    #abt-cover{
+        width: 100% !important;
     }
     nav{
         display: none;
@@ -644,5 +656,6 @@ nav ul li a {
             height: 100% !important;
         }
     }
+
 
 }
